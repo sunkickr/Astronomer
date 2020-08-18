@@ -6,7 +6,7 @@ Install docker
 
 Install Astronomer CLI https://www.astronomer.io/docs/cloud/stable/develop/cli-quickstart/
 
-#Start Environoment
+# Start Environoment
 
 ```bash
 #Run docker containers 
